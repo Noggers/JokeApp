@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JokeApp2</string>
+    <string name="reveal_answer">Reveal Answer</string>
+    <string name="prev">Prev</string>
+    <string name="next">Next</string>
+    <string name="JokeText">Joke</string>
+    <string name="JokeAnswer">Answer</string>
+</resources>
